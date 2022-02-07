@@ -20,3 +20,13 @@ In our first task, R's lm function to pass a linear regression model on all six 
 ![summary pt 2](https://user-images.githubusercontent.com/87949792/152708439-7fbe48ab-ff42-4007-bf23-6b6f25600a3d.png)
 
 
+## Summary Statistics on Suspension Coils
+
+For the next task, two datasets were created by using data from the Suspension_Coils.csv. A total summary was created to show the mean, median, variance and standard deviation of the PSI column for the dataframe. In addition, a lot summary was created to show the same mesures but seperate but lots 1, 2 and 3. The design specifications for the MechaCar suspension coils dictate that the variance of the suspension coils must not exceed 100 pounds per square inch. The summary stats show us that when looking at MechaCar overall this rule is met - however when look at each indivual lot, only lots 1 and 2 meet the requirent - lot 3 does not. 
+
+### Total Summary
+![total_summary](https://user-images.githubusercontent.com/87949792/152710228-28ba3e79-145c-4e21-83fe-8fc29151d667.png)
+
+
+### Lot Summary
+![lot_summary](https://user-images.githubusercontent.com/87949792/152710244-d2510bae-7c5d-4914-9f9a-0ff455e3f92f.png)
