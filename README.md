@@ -30,3 +30,38 @@ For the next task, two datasets were created by using data from the Suspension_C
 
 ### Lot Summary
 ![lot_summary](https://user-images.githubusercontent.com/87949792/152710244-d2510bae-7c5d-4914-9f9a-0ff455e3f92f.png)
+
+
+
+## T-Tests on Suspension Coils
+
+For the next part of the analysis, R was used in order to perform t-tests to determine if all manufacturing lots and each lot individually are statistically different from the population mean of 1,500 pounds per square inch. The Four T test will be explained below. Our null hypotheses is that each mean will be equal to that of 1500 pounds per square inch. 
+
+### Overall Suspension Coil T Test 
+
+![T Test](https://user-images.githubusercontent.com/87949792/152711564-e94e5c5f-a748-482b-b747-d45c748a8fb5.png)
+
+The T test for the overall suspension coils show that at a 95% confidence level, the two means are not statistically different. The p score found was 0.06028, higher than the critical value of 0.05 - therefore the null hypothesis can be accepted. 
+
+
+### T Test on Lot 1 
+![t test lot 1](https://user-images.githubusercontent.com/87949792/152711741-81591ae8-1bc6-42f9-91b3-95bbbd9e087d.png)
+
+The T test for the overall suspension coils show that at a 95% confidence level, the two means are not statistically different. The p score found was 1, higher than the critical value of 0.05 - therefore the null hypothesis can be accepted. A p score of 1 shows that the mean for Lot1 is exactly the same same as the population mean of 1500 PSI.
+
+
+### T Test on Lot 2 
+
+![t test lot 2 ](https://user-images.githubusercontent.com/87949792/152711851-90c4c4f7-c60d-4a7b-8dc1-fa025b28d0ad.png)
+
+The T test for the overall suspension coils show that at a 95% confidence level, the two means are not statistically different. The p score found was 0.6072, higher than the critical value of 0.05 - therefore the null hypothesis can be accepted. 
+
+
+### T test on lot 3 
+
+![t test lot 3](https://user-images.githubusercontent.com/87949792/152712000-4758ccaa-479c-4289-a0c7-8a1a24a2c8be.png)
+
+The T test for the overall suspension coils show that at a 95% confidence level, the two means are statistically different. The p score found was 0.04168, lower than the critical value of 0.05 - therefore the null hypothesis can not be accepted. 
+
+
+
