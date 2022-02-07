@@ -65,3 +65,28 @@ The T test for the overall suspension coils show that at a 95% confidence level,
 
 
 
+## Study Design: MechaCar vs Competition
+
+Lastly, we have been asked to design a statistical study to compare performance of the MechaCar vehicles against performance of vehicles from other manufacturers.
+
+### What will we study?
+
+As anyone with a family knows, safety is of the upmost importance. We will measure safety.
+
+### Metric?
+
+We will compare the safety ratings of our company to our competetors safety ratings. 
+
+### Hypotheses
+
+Null: There is no difference in safety between MechaCar and our competetor.
+
+Alternative: There is a difference in safety between MechaCar and out competetor. 
+
+### Test to be used.
+
+We will use T testing to compare the safety scores between Mechcar and the competetor. The T test will compare the means of the scores between the two companies. 
+
+### Data needed 
+
+We need the indidual access to the indivual safety scores from MechaCar and the competetor. 
